@@ -1,0 +1,11 @@
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\obj\Debug\Snake Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\obj\Debug\Snake_Game.Form1.resources
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\obj\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\obj\Debug\Snake Game.csproj.GenerateResource.cache
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\Nick1\OneDrive\Documentos\VisualStudio - Projects\Snake Game\obj\Debug\Snake Game.pdb

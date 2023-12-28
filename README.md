@@ -10,5 +10,5 @@
 
 ### 👨‍💻 Programming Languages
 
-- JavaScript
+- C#
 

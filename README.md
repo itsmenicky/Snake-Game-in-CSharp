@@ -1,6 +1,14 @@
 <h1 align="center">Snake Game in C#</h1>
-<h3 align="center">A simple Snake Game using C#</h3>
+<p align="center">A simple Snake Game using C#</p>
+<div align=center><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></div>
 <br />
 <p align="center">
 <img style="border-radius: 10px" src="https://github.com/IsolatedThinker117/Snake-Game-in-CSharp/blob/main/img/SnakeGame.jpg">
 </p>
+
+<p align=center>One of the first projects i made in my journey as a developer. In this project i learned the first steps of the C# language.</p>
+
+### 👨‍💻 Programming Languages
+
+- JavaScript
+
